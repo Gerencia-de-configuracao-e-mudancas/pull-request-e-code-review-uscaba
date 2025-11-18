@@ -1,5 +1,3 @@
-[13:55, 18/11/2025] Rennan: style.css
-
 /* Importação de Fonte */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
@@ -139,32 +137,6 @@ footer {
     font-size: 0.9em;
     border-top: 1px solid #333;
 }
-[13:55, 18/11/2025] Rennan: estrategias.html
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estratégias - Arena Real</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-</head>
-<body>
-
-    <header class="hero-section">
-        <div class="container">
-            <h1>🧠 Estratégias e Dicas 💡</h1>
-            <p>Aprenda a dominar o elixir, o posicionamento e o tempo!</p>
-            <a href="index.html" class="btn">Voltar para a Home</a> 
-        </div>
-    </header>
-
-    <main class="container">
-
-        <section class="strategy-list">
-            <h2>Dicas Essenciais p…
-[13:55, 18/11/2025] Rennan: atualização do css para a pagina de estrategias
 
 /* --- Estilos para a Seção de Estratégias (Nova Página) --- */
 .strategy-list {
